@@ -17,10 +17,7 @@ class MyApp extends StatelessWidget {
         body: Container(
           child: BlocProvider(blocs: [
             Bloc((i) => LoginBloc(context)),
-
-
-
-
+//nati linda 
             
             Bloc((i) => NovoItenBloc()),
              
